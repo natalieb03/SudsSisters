@@ -1,7 +1,7 @@
 # SudsSisters
-README Journal-Lux Bodycare
-Team Name: Suds Sisters
-Natalie Brigman and Ashley Evans
+README Journal-Lux Bodycare<br></br>
+Team Name: Suds Sisters<br></br>
+Natalie Brigman and Ashley Evans<br></br>
 2/20: We decided to do a body care business.
 2/21: Work on Wireframing
 
